@@ -1,5 +1,5 @@
 require('rspec')
-require('leetspeak')
+require('palindromeruby')
 
 describe('String#leetspeak') do
   it('replaces every "e" in a string with a "3"') do
